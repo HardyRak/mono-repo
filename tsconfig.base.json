@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@myworkspace/my-plugin": ["tools/my-plugin/src/index.ts"],
       "@myworkspace/mylib": ["mylib/src/index.ts"]
     }
   },
