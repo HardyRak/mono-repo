@@ -10,7 +10,7 @@ export class ProductCategoryListComponent {
 
   selectedProductCategory: ProductCategory;
 
-  loadProductCategories() {
+  loadProductCategory() {
     throw new Error('Not implemented');
   }
 }
